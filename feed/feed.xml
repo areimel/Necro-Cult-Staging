@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Necro Cult</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	
+	<link href="https://necrocultzine.com/feed/feed.xml" rel="self"/>
+	<link href="https://necrocultzine.com/"/>
+	<updated>2019-06-29T10:53:00-04:00</updated>
+	<id>https://myurl.com/</id>
+	<author>
+		<name>Alec Reimel</name>
+		<email>necrocultzine@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>Morbid</title>
+		<link href="https://necrocultzine.com/posts/morbid/"/>
+		<updated>2019-06-24T16:19:31-04:00</updated>
+		<id>https://necrocultzine.com/posts/morbid/</id>
+		<content type="html">&lt;article&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- HERO/TITLE --&gt;
+	&lt;section class=&quot;article_hero container&quot; style=&quot;background-image: url(&#39;/img/articles/morbid/evil-dead-1.jpg&#39;);&quot;&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;h1 class=&quot;title&quot;&gt;
+				&lt;span class=&quot;column_name&quot;&gt;Tales From The Basement:&lt;/span&gt;
+				&lt;br&gt;
+				&lt;span class=&quot;main&quot;&gt;Morbid&lt;/span&gt;
+			&lt;/h1&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;span class=&quot;image_credit&quot;&gt;
+			CREDIT: The Evil Dead, 1981
+		&lt;/span&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- INTRO --&gt;
+	&lt;div class=&quot;article_spacer&quot;&gt;
+		&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+	&lt;/div&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;section class=&quot;article_section full container small&quot;&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;p&gt;
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;div class=&quot;article_spacer&quot;&gt;
+		&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+	&lt;/div&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- INTRO --&gt;
+	&lt;section class=&quot;article_section container&quot; mobile-flex=&quot;column&quot;&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;h2 class=&quot;article_header&quot;&gt;
+					&lt;span&gt;Year of the Goat&lt;/span&gt;
+				&lt;/h2&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;&quot;&gt;
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;&quot;&gt;
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. 
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;image&quot;&gt;
+			&lt;img src=&quot;https://necrocultzine.com/img/articles/morbid/morbid.jpg&quot;&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;section class=&quot;article_section row_reverse container&quot; mobile-flex=&quot;column&quot;&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;h2 class=&quot;article_header&quot;&gt;
+					&lt;span&gt;Dead&lt;/span&gt;
+				&lt;/h2&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;cut_out&quot;&gt;
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. 
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;div class=&quot;article_spacer small&quot;&gt;
+					&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+				&lt;/div&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;cut_out&quot;&gt;
+					Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;image&quot;&gt;
+			&lt;img src=&quot;https://necrocultzine.com/img/articles/morbid/dead-1.jpg&quot;&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;section class=&quot;article_section container&quot; mobile-flex=&quot;column&quot;&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;div class=&quot;inner&quot;&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;h2 class=&quot;article_header&quot;&gt;
+					&lt;span&gt;Left Hand Path&lt;/span&gt;
+				&lt;/h2&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;cut_out&quot;&gt;
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. 
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;div class=&quot;article_spacer small&quot;&gt;
+					&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+				&lt;/div&gt;
+				&lt;!-- markdown space --&gt;
+				&lt;p class=&quot;cut_out&quot;&gt;
+					Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+				&lt;/p&gt;
+				&lt;!-- markdown space --&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;image&quot;&gt;
+			&lt;img src=&quot;https://necrocultzine.com/img/articles/morbid/entombed-1.jpg&quot;&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;div class=&quot;article_spacer small&quot;&gt;
+		&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+	&lt;/div&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;section class=&quot;article_section full container small&quot;&gt;
+		&lt;div class=&quot;image&quot;&gt;
+			&lt;img src=&quot;https://necrocultzine.com/img/articles/morbid/black-emperors.jpg&quot;&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;section class=&quot;article_section full container small&quot;&gt;
+		&lt;div class=&quot;copy&quot;&gt;
+			&lt;h2 class=&quot;article_header&quot;&gt;
+				&lt;span&gt;A Tribute To The Black Emperors&lt;/span&gt;
+			&lt;/h2&gt;
+			&lt;p&gt;
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+			&lt;/p&gt;
+		&lt;/div&gt;
+	&lt;/section&gt;
+	&lt;!-- markdown space --&gt;
+	&lt;!-- markdown space --&gt;
+		&lt;div class=&quot;article_spacer small&quot;&gt;
+			&lt;img src=&quot;https://necrocultzine.com/img/barbed-wire-border-trans-large.png&quot;&gt;
+		&lt;/div&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;section class=&quot;article_section full container small&quot;&gt;
+			&lt;div class=&quot;image&quot;&gt;
+				&lt;img src=&quot;https://necrocultzine.com/img/articles/morbid/morbit.jpg&quot;&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;!-- markdown space --&gt;
+		&lt;section class=&quot;article_section full container small&quot;&gt;
+			&lt;!-- markdown space --&gt;
+			&lt;div class=&quot;copy&quot;&gt;
+				&lt;h2 class=&quot;article_header&quot;&gt;
+					&lt;span&gt;Metalion: 50 Years Of Fucking Off Life&lt;/span&gt;
+				&lt;/h2&gt;
+				&lt;p&gt;
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus purus in massa tempor nec feugiat nisl pretium fusce. Praesent tristique magna sit amet purus gravida quis blandit turpis. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Aliquam etiam erat velit scelerisque in dictum non consectetur a. Lectus mauris ultrices eros in cursus. Quisque egestas diam in arcu cursus. At varius vel pharetra vel turpis nunc eget. Lectus sit amet est placerat. Magna eget est lorem ipsum dolor. Augue ut lectus arcu bibendum at varius vel.
+				&lt;/p&gt;
+			&lt;/div&gt;
+		&lt;/section&gt;
+		&lt;!-- markdown space --&gt;
+&lt;/article&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Merciful_Fate</title>
+		<link href="https://necrocultzine.com/posts/merciful-fate/"/>
+		<updated>2019-06-24T16:20:06-04:00</updated>
+		<id>https://necrocultzine.com/posts/merciful-fate/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis sollicitudin felis, vel tristique justo iaculis at. Curabitur luctus, enim at suscipit volutpat, sapien nulla tincidunt tellus, auctor interdum ex quam et eros.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Mortuary_Drape</title>
+		<link href="https://necrocultzine.com/posts/mortuary-drape/"/>
+		<updated>2019-06-24T16:20:44-04:00</updated>
+		<id>https://necrocultzine.com/posts/mortuary-drape/</id>
+		<content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis sollicitudin felis, vel tristique justo iaculis at. Curabitur luctus, enim at suscipit volutpat, sapien nulla tincidunt tellus, auctor interdum ex quam et eros.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dissection</title>
+		<link href="https://necrocultzine.com/posts/dissection/"/>
+		<updated>2019-06-29T10:53:00-04:00</updated>
+		<id>https://necrocultzine.com/posts/dissection/</id>
+		<content type="html"></content>
+	</entry>
+</feed>
